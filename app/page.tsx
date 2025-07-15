@@ -618,7 +618,7 @@ export default function LinkedInBookLanding() {
                 size="lg"
                 className="bg-blue-400 hover:bg-blue-300 text-white px-8 py-4 text-lg md:px-10 md:py-4 font-bold rounded-full transform hover:scale-105 transition-all duration-200"
               >
-                <a href="https://selar.com/p/4sx144?affiliate=1q3t4c" target="_blank">GET YOUR COPY NOW - ₦ 9,999 →</a>
+                <a href="https://selar.com/p/4sx144?affiliate=1q3t4c" target="_blank">GET YOUR COPY NOW →</a>
               </Button>
             </div>
           </div>
